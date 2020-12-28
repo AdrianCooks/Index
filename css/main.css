@@ -57,15 +57,26 @@
 
 
     h6 {
-        line-height: 3em;
-        padding-top: 2rem;
-        padding-right: 1rem;
-        padding-left: 1rem;
+        font-size: 5vw;
+        text-align: center;
+    }
+
+    h8 {
+        margin-top: 1rem;
+        line-height: 2rem;
+        padding-;
     }
 
     #undergraduateGraduation {
-       max-width: 80%;
+       max-width: 100%;
        margin-left: auto;
        margin-right: auto;
-       padding: 1rem;
+       align-items: center;
+    }
+
+    .logo-image{
+        width: 20rem;
+        align-content: 1rem;
+        overflow: hidden;
+        margin-top: -1rem;
     }
